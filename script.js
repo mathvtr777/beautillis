@@ -25,6 +25,7 @@
       <a href="#sobre">Sobre</a>
       <a href="#servicos">Serviços</a>
       <a href="#resultados">Resultados</a>
+      <a href="#avaliacoes">Avaliações</a>
       <a href="#contato">Contato</a>
       <a href="https://wa.me/5584981672323?text=Olá!%20Gostaria%20de%20agendar%20uma%20avaliação." class="btn btn-gold" style="margin-top:18px;padding:14px 32px;">Agendar</a>
     `;
@@ -50,6 +51,7 @@
     '.section-tag', '.section-title', '.section-lead',
     '.stat', '.card-serv', '.ba-item', '.video-card',
     '.difer-item', '.contato-item', '.contato-map',
+    '.av-card', '.av-header',
     '.cta-final h2', '.cta-final p', '.cta-final a',
     '.hero-badges', '.hero-ctas', '.hero-sub',
   ];
